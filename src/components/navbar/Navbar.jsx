@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className='nav-container'>
         <div className='logo'>
-            <img src={laptop}/>
+            F
         </div>
 
         <div className='redes-cont'>
